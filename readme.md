@@ -1,19 +1,19 @@
-For Backend :
+# For Backend :
 
 1. cd server/
 
 2. node app.js
 
 
-For Frontend :
+# For Frontend :
 
 1. cd client/
 
 2. npm run dev
 
-Problem scope:
+### Assignment Problem Scope:
 
-#Backend
+## Backend
 
 1. Create an Express App which listens on port 8080
 2. Create a get API /countries which will provide list of countries [Only name and Id]
@@ -23,7 +23,7 @@ based on country id.
 4. Create a post API /country which will accept Country Object and save the details to the
 data file and the image to the /images directory.
 
-#Frontend
+## Frontend
 
 5. Create a UI
 a. Which shows a dropdown of the current list of countries on load
