@@ -2,14 +2,18 @@
 
 1. cd server/
 
-2. node app.js
+2. npm install 
+
+3. node app.js
 
 
 # For Frontend :
 
 1. cd client/
 
-2. npm run dev
+2. npm install 
+
+3. npm run dev
 
 ### Assignment Problem Scope:
 
